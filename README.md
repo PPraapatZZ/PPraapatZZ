@@ -36,26 +36,23 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PPraapatZZ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PPraapatZZ&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=PPraapatZZ&theme=tokyonight&hide_border=true" alt="PPraapatZZ" />
-</div>
-
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PPraapatZZ&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PPraapatZZ&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </p>
 
-## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PPraapatZZ&theme=radical" alt="GitHub Streak"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PPraapatZZ&theme=tokyo-night&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PPraapatZZ&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+## 📊 Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PPraapatZZ&theme=react-dark&hide_border=true&area=true" />
+</p>
 
 ## 💻 Currently Working On
 
