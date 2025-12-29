@@ -37,18 +37,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PPraapatZZ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PPraapatZZ&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PPraapatZZ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PPraapatZZ&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PPraapatZZ&theme=tokyonight" alt="PPraapatZZ" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=PPraapatZZ&theme=tokyonight&hide_border=true" alt="PPraapatZZ" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PPraapatZZ&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PPraapatZZ&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </p>
 
 ## 📈 Activity Graph
@@ -74,12 +74,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PPraapatZZ/PPraapatZZ/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 ---
 
