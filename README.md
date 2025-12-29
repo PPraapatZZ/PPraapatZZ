@@ -7,10 +7,6 @@
   About Me
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PPraapatZZ&label=Profile%20views&color=0e75b6&style=flat" alt="PPraapatZZ" />
-</p>
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -61,4 +57,7 @@
 <div align="center">
   <h3>✨ Thanks for visiting! ✨</h3>
   <p>Don't forget to ⭐ some repositories if you find them interesting!</p>
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PPraapatZZ&label=Profile%20views&color=0e75b6&style=flat" alt="PPraapatZZ" />
+  </p>
 </div>
