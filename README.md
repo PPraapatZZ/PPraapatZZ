@@ -11,12 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=PPraapatZZ&label=Profile%20views&color=0e75b6&style=flat" alt="PPraapatZZ" />
 </p>
 
-```ascii
-╔══════════════════════════════════════════════════════════╗
-║  👨‍💻 Developer | 🎓 Learner | 🚀 Tech Enthusiast          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -32,20 +26,6 @@
 ### Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker,vercel,netlify&perline=8" />
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PPraapatZZ&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PPraapatZZ&theme=radical" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PPraapatZZ&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ## 📊 Activity
